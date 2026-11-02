@@ -1,0 +1,10 @@
+To Do - for info pull:
+-Finish ontology connections to uppers
+-Finishh Purpose ontology
+-Test auto docker creation
+-Test auto kafka config
+-Verify Ontology labels fit in neo4j
+-Convert ontologies into turtle file
+	-make sure to include relationship rules
+-Set up data cleaning and analysis pipelines format for automated deployment through simple graph commands
+-Collect possible parameters and connect them with ontologys in SKOS format
